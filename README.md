@@ -8,3 +8,24 @@
 ### 대상
 
 * 소상공인, 자영업자
+
+
+## Member
+
+<table>
+    <thead>
+        <th align = "center">남태우</th>
+        <th align = "center">박형민</th>
+        <th align = "center">송민혁</th>
+    </thead>
+    <tbody>
+        <td align = "center"><a href="https://github.com/bn-tw2020"><img height="100px" width="120px" src="https://avatars.githubusercontent.com/u/66770613?s=460&u=fe16d6fa3d8839c4e6beb6fec9e83811041cdaa1&v=4" /></a></td>
+        <td align = "center"><a href="https://github.com/thalals"><img height="100px" width="120px" src="https://avatars.githubusercontent.com/u/42319300?s=460&u=feb753590ea1a1d094b08573bb11f15e801e63cc&v=4" /></a></td>
+        <td align = "center"><a href="https://github.com/thdals83"><img height="100px" width="120px" src="https://avatars.githubusercontent.com/u/59475849?s=460&v=4" /></a></td>
+    </tbody>
+    <tr>
+        <td align = "center">?</td>
+        <td align = "center">?</td>
+        <td align = "center">?</td>
+    </tr>
+</table>

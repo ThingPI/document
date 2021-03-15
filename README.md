@@ -1,4 +1,4 @@
-## ThingPI
+## Thingple
 
 ### 배경
 
